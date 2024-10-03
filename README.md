@@ -1,2 +1,2 @@
 # Annuity
-An Annuity program written in COBOL
+An Annuity Calculator written in COBOL
